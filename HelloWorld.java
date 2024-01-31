@@ -1,5 +1,5 @@
 public class HelloWorld{
 public static void main(String[] arg){
-System.out.println("*****made some changesssss*****");
+System.out.println("*****made some changes*****");
 }
 }
